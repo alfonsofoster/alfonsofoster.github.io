@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars2.githubusercontent.com/u/36521823?s=400&u=ab7c97949b118adb7c65b6c57ad20bb90f63028a&v=4"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
